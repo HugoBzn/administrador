@@ -4,5 +4,9 @@
 }
 
 body {
-    background-color: #fcffb2
+    background-color: #fcffb2;
 }
+
+.card {
+    margin: 3rem;
+} 
