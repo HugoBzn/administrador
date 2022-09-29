@@ -16,7 +16,7 @@
             Los consumidores son personas las cuales buscan comprar o recibir
             productos a cambio de dinero.
           </p>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+          <NuxtLink to="/register/consumidores" class="btn btn-primary">¡Registrar consumidores!</NuxtLink>
         </div>
       </div>
     </div>
