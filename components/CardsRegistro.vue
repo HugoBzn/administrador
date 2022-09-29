@@ -31,7 +31,7 @@
           <p class="card-text">
             Proveé servicios y/o productos para los usuarios consumidores.
           </p>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+          <NuxtLink to="/register/prestadores" class="btn btn-primary">¡Registrar prestadores!</NuxtLink>
         </div>
       </div>
     </div>

@@ -14,3 +14,7 @@ body {
 img {
     border-radius: 10%;
 }
+
+.pad {
+    padding: 3rem;
+}
