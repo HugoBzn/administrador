@@ -47,7 +47,7 @@
             Son las principales fuentes de ingresos, las cuales son un punto
             fuerte para esta asociación.
           </p>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+          <NuxtLink to="/register/entidades" class="btn btn-primary">¡Registrar Entidades!</NuxtLink>
         </div>
       </div>
     </div>
