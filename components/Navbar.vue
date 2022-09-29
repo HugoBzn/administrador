@@ -18,7 +18,7 @@
           </NuxtLink>
         </li>
         <li class="nav-item">
-          <NuxtLink class="nav-link" to="#">API</NuxtLink>
+          <a class="nav-link" href="https://apiyoncece.herokuapp.com/">API</a>
         </li>
         <li class="nav-item">
           <NuxtLink class="nav-link" to="/about">Acerca de...</NuxtLink>
